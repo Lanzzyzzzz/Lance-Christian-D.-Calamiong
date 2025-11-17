@@ -1,0 +1,97 @@
+body{
+		background-color: darkgray;
+		
+	}
+	
+	#lalalalala{
+		font-family: arial;
+		color: white;
+		background-color: black;
+		display: flex;
+		flex-direction: row;
+		height: 20vh;
+		width: stretch;
+		align-content: center;
+	}
+	
+	#jajaa{
+		border: 1px black solid;
+		padding-top: 5vh;
+		margin-left: 20vh;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+		width: stretch;
+		align-content: center;
+	}
+	
+	#tara{
+		border: 0px black solid;
+		margin-bottom: 50px;
+		margin-top: -250px;
+		margin-left: 300px;
+		background-color: gray;
+		height: stretch;
+		width: stretch;
+		border-radius: 255px;
+		padding: 25px;
+	}
+	
+	#my-pic{
+		height: 60vh;
+		width: 60vh;
+		border-radius: 250px;
+		background-color: gray;
+		margin-right: 25px;
+	}
+	
+	#sally{
+		background-color: aqua;
+		height: 60vh;
+		width: 60vh;
+		border-radius: 250px;
+	}
+	
+	#h3-span{
+		color: gold;
+		
+	}
+	
+	#pogi{
+		width: 100vh;
+		height: 10vh;
+		border: 1px black solid;
+		background-color: black;
+		border-radius: 25px;
+		color: lightblue;
+		margin-bottom: 10px;
+	}
+	
+	#Gab-wag-moko-kinokopya{
+		background-color: aqua;
+		border: 2px aqua solid;
+		margin-left: 25vh;
+		margin-right: 25vh;
+		border-radius: 25px;
+		
+	}
+	
+	#123{
+		background-color: gray;
+		border: 1px black solid;
+		height: 5000vh;
+		width: stretch;
+		
+	}
+	
+	#Greet{
+		color: aqua;
+
+	}
+
+	#contact{
+		border: 1px darkblue solid;
+		background-color: darkblue;
+		
+		
+	}
